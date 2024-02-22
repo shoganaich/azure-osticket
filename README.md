@@ -6,7 +6,7 @@
 
 # Microsoft Azure osTicket Setup
 
-This guide is a detailed resource in setting up osTicket on Microsoft Azure Virtual Machines. It's meant to help IT workers, system managers, and anyone looking to set up a strong ticketing system in the cloud. With this guide, I want to share useful tips and recommended methods to make setting up osTicket on Azure easy and effective.
+This guide is a detailed guide in setting up osTicket on Microsoft Azure Virtual Machines. It's meant to help IT workers, system managers, and anyone looking to set up a strong ticketing system in the cloud. With this guide, I want to share useful tips and recommended methods to make setting up osTicket on Azure easy and effective.
 
 Unfortunately, the documentation isn't available here.
 
