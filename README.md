@@ -14,5 +14,15 @@ It is located in the wiki section of this repository.
 
 [Here's a shortcut for you.](https://github.com/shoganaich/azure-osticket/wiki)
 
+<!-- LICENSE -->
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgments
+* [osTicket](https://osticket.com/)
+* [Course Carrers](https://coursecareers.com/)
+* [Josh Madakor](https://www.linkedin.com/in/joshmadakor)
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.github.com/shoganaich/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victordccardoso/)
+[![linkedin](https://img.shields.io/badge/telegram-fbfcf8?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/shoganaich)
