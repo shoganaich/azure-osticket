@@ -12,7 +12,7 @@ Unfortunately, the documentation isn't available here.
 
 It is located in the wiki section of this repository.
 
-[Here's a shortcut for you.](https://github.com/shoganaich/azure-osticket/wiki)
+#### [Here's a shortcut for you.](https://github.com/shoganaich/azure-osticket/wiki)
 
 <!-- LICENSE -->
 ## License
