@@ -3,7 +3,7 @@ If you want to use the exact files that were used in this guide, they can be fou
 
 https://drive.google.com/file/d/1_tfJ6iSch0kH1D2QcMKEeVjm9CIWlxgy/view?usp=sharing
 
-However, as some people may not feel comfortable downloading files from a random source, below are the original links to all the programs used if you prefer downloading them individually.
+However, as some people may not feel comfortable downloading files from a strange source, below are the original links to all the programs used if you prefer downloading them individually.
 
 ---
 
